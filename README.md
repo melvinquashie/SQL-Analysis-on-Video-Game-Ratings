@@ -70,4 +70,5 @@ The dashboard can be filtered by year and platform to show the following:
 Below is a snapshot of the dashboard:
 ![Dashboard](Dashboard.png)
 
+The answers to the proposed question can also be found in **Answers to Analysis.xlsx**
 
