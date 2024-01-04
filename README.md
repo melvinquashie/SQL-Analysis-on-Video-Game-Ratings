@@ -68,6 +68,6 @@ The dashboard can be filtered by year and platform to show the following:
 5. Top 10 and worst 10 user reviewed games for the period/ platform
 
 Below is a snapshot of the dashboard:
-![Dashboard 1](Dashboard 1.png)
+![Dashboard](Dashboard.png)
 
 
